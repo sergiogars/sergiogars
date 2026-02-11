@@ -57,7 +57,7 @@ Aquí encontrarás:
 
 ## 📫 Contacto
 
-- GitHub: https://github.com/<tu-usuario>
+- GitHub: https://github.com/sergiogars
 - Email: garciasergiozgs@gmail.com
 
 ---
