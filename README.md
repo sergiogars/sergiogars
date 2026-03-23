@@ -1,4 +1,4 @@
-# 👋 Hola, soy Sergio García Santamararina
+# 👋 Hola, soy Sergio García Santamarina
 
 🎓 Estudiante de Ingeniería del Software  
 💻 Interesado en desarrollo backend, arquitectura de software y bases de datos  
